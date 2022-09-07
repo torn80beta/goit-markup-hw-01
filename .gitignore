@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 images/original_jpg/igor_demiyanenko.jpg
 images/original_jpg/mykhailo_ermakov.jpg
 images/original_jpg/mykola_tarasov.jpg
@@ -7,3 +8,14 @@ images/original_jpg/work_box2.jpg
 images/original_jpg/work_box3.jpg
 images/original_jpg
 .gitignore
+=======
+images/original_jpg/igor_demiyanenko.jpg
+images/original_jpg/mykhailo_ermakov.jpg
+images/original_jpg/mykola_tarasov.jpg
+images/original_jpg/olga_repina.jpg
+images/original_jpg/work_box1.jpg
+images/original_jpg/work_box2.jpg
+images/original_jpg/work_box3.jpg
+images/original_jpg
+.gitignore
+>>>>>>> 9188bf2e893f25921facff1f2d3bec8998f135a6
